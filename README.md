@@ -1,7 +1,7 @@
 
 # Hi, I'm Francisco! 👋
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faerazo/)
-[![website](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.faerazo.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.faerazo.com/)
 
 
 ## 🚀 About Me
@@ -11,12 +11,6 @@ I have more than 5 years of working experience in the financial services industr
 
 ## 🛠 Skills
 In the last years, I have been working on improving my coding skills in Python and R for Data Science, Data Analytics and Machine Learning. 
-
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faerazo/)
-
 
 <!---
 faerazo/faerazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
