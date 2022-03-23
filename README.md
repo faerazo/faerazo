@@ -8,7 +8,7 @@
 I am an Ecuadorian who lives in Sweden 🇸🇪. Currently, I am in the last semester of a master's program in Data Analytics and Business Economics at Lund University.
 
 ## 🛠 Skills & Tools
-In the last years, I have been working on improving my coding skills in Python and R for Data Science, Data Analytics and Machine Learning. 
+In the last years, I have been working on improving my coding skills in Python and R for Data Science, Data Analytics and Data Visualization. 
 
 <p align="center" dir="auto">
 <img height="50" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
