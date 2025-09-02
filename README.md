@@ -14,9 +14,9 @@
 - Applying machine learning to real-world business problems
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/faerazo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://faerazo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
-<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('hello@faerazo.com')"><img src="https://img.shields.io/badge/hello@faerazo.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: hello@faerazo.com"></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faerazo)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://faerazo.com)
+[![Email](https://img.shields.io/badge/hello@faerazo.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@faerazo.com) 
 
 ## 🚀 Featured Projects
 
@@ -27,7 +27,7 @@
 <td width="50%" valign="top">
 
 ### 🧬 PROTACFold Automation Platform
-<a href="https://protacfold.xyz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20Project-%23FF6B6B.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Visit PROTACFold"></a>
+[![Visit PROTACFold](https://img.shields.io/badge/Visit%20Project-%23FF6B6B.svg?style=for-the-badge&logo=safari&logoColor=white)](https://protacfold.xyz/)
 
 **Streamlined AlphaFold3 & Boltz-1 Preparation**
 
@@ -43,7 +43,7 @@ PROTACFold saves you from doing boring manual work to prepare input files for Al
 <td width="50%" valign="top">
 
 ### 🎓 GuPT - Gothenburg University Assistant
-<a href="https://csexpert.xyz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20Project-%234ECDC4.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Visit CSExpert"></a>
+[![Visit CSExpert](https://img.shields.io/badge/Visit%20Project-%234ECDC4.svg?style=for-the-badge&logo=safari&logoColor=white)](https://csexpert.xyz/)
 
 **Smart University Information Chatbot**
 
