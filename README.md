@@ -43,7 +43,7 @@ PROTACFold saves you from doing boring manual work to prepare input files for Al
 <td width="50%" valign="top">
 
 ### 🎓 GuPT - Gothenburg University Assistant
-[![Visit CSExpert](https://img.shields.io/badge/Visit%20Project-%234ECDC4.svg?style=for-the-badge&logo=safari&logoColor=white)](https://csexpert.xyz/)
+[![Visit CSExpert](https://img.shields.io/badge/Visit%20Project-%234ECDC4.svg?style=for-the-badge&logo=safari&logoColor=white)](https://huggingface.co/spaces/faerazo/GuPT)
 
 **Smart University Information Chatbot**
 
