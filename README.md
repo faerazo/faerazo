@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🤖 **AI Engineer** specializing in RAG (Retrieval-Augmented Generation)
+🤖 **AI Engineer** specializing in RAG (Retrieval-Augmented Generation)  
 📊 **Data Engineer & Analyst** with expertise in building scalable data solutions and analytics pipelines  
 💼 **Former Finance Professional** with extensive experience in M&A transactions and credit risk management  
 
@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/faerazo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://faerazo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
-<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('hello@faerazo.com'); alert('Email copied to clipboard!')"><img src="https://img.shields.io/badge/hello@faerazo.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: hello@faerazo.com"></a> 
+<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('hello@faerazo.com')"><img src="https://img.shields.io/badge/hello@faerazo.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: hello@faerazo.com"></a> 
 
 ## 🚀 Featured Projects
 
